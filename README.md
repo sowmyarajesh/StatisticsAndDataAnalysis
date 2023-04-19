@@ -1,2 +1,2 @@
 # StatisticsAndDataScience
-MicroMaster course practice excercise 
+Practice excercise 
